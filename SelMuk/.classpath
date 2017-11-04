@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/selenium-2.53.1/selenium-java-2.53.1.jar" sourcepath="C:/Users/paddu/Downloads/selenium-java-2.53.1/selenium-2.53.1/selenium-java-2.53.1-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/selenium-2.53.1/selenium-java-2.53.1-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/poi-3.17/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/poi-3.17/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/poi-3.17/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/poi-3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/poi-3.17/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/commons-collections4-4.1/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/commons-collections4-4.1/commons-collections4-4.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/selenium-server-standalone-2.49.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/Microsoft JDBC Driver 6.0 for SQL Server/sqljdbc_6.0/enu/jre8/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/freemarker-2.3.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/jrebel/jrebel.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/extentreports-1.41.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/SendMail Jars/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/SendMail Jars/additionnal.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/SendMail Jars/java-mail-1.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/SendMail Jars/javamail-connector-4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/SendMail Jars/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/SendMail Jars/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paddu/Downloads/SendMail Jars/smtp-1.4.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
